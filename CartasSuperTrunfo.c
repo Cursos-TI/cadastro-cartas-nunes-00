@@ -162,5 +162,6 @@ printf("Super Poder: Carta %d venceu (%d)\n",
        super_poder1 > super_poder2);
 
 
+       
 return 0;
 } 
